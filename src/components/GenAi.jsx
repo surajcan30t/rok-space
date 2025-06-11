@@ -18,8 +18,8 @@ const servicesData = [
   {
     th: "CHAD",
     title: "AI",
-    description: "Fuel decisions with data to drive efficency.",
-    bigDescHead: `Drive self-care adoption with hyper-adaptive, personalized customer service journeys.`,
+    description: "Enhance chatbot NPS & FCR",
+    bigDescHead: `Enhance chatbot NPS & FCR through reliable use of Large Language Models`,
     bigDesc: `<p style="font-weight: 400; text-align: center;">Chatbots are in a dilemma of rigid processes vs. freedom. They either require big knowledge bases – or provide overly creative and unreliable answers. Lack of reliability renders chatbots unsuitable for executing automated actions and solving technically complex problems independently. However, your customer service team and knowledge engineers face significant challenges in creating content for chatbots. Despite their efforts, gaps remain when addressing highly specific or individual customer inquiries.</p><br><p style="text-align: center;">-Chatbots struggle between rigid processes and unreliable creativity.<br>
                 -They either need vast knowledge bases or risk providing inaccurate responses.<br>
                 -Creating chatbot content is challenging, leaving gaps in handling complex inquiries.</p><br><p style="font-weight: 400; text-align: center;">As a result, while chatbots are available 24/7, they fail to solve problems autonomously around the clock. Instead, they are often used as entry points while their full potential to assist customers quickly and independently remains untapped. This leaves your customers more frustrated than impressed, hindering the adoption of chatbot solutions. Moreover, the considerable effort required from knowledge engineers to generate content does not align with the actual outcomes or the intended business value. Your key metrics like NPS and FCR remain below expectations, and you struggle to realize the anticipated cost savings from automating customer issue resolution.</p><br><p style="text-align: center;">-Chatbots operate 24/7 but fail to resolve issues autonomously.<br>
@@ -29,10 +29,10 @@ const servicesData = [
                 -Enhancing customer satisfaction, it reduces costs and improves KPIs like NPS and FCR.</p><br>`,
   },
   {
-    th: "GEN",
+    th: "NBA",
     title: "AI",
-    description: "Reduce field service cost",
-    bigDescHead: `Efficient field service without unnecessary dispatches`,
+    description: "Fuel decisions with data to drive efficency.",
+    bigDescHead: `Drive self-care adoption with hyper-adaptive, personalized customer service journeys.`,
     bigDesc: `<p style="font-weight: 400; text-align: center;">Despite significant efforts to enhance the acceptance and functionality of self-care channels, resolution rates remain below expectations. Customers expect their journeys to be effortless, simple, and concise. To meet these expectations, interactions need to adapt continuously to new data, insights, and customer inputs. However, most customer service journeys are still characterized by lengthy and rigid processes. Once a context is set, customers face a series of questions, many of which may no longer relate to their actual issue.</p><br><p style="text-align: center;">-Despite improvements, self-care resolution rates remain low.<br>
                 -Customers expect effortless, adaptive support experiences.<br>
                 -Rigid, outdated processes lead to irrelevant questions and frustration.</p><br><p style="font-weight: 400; text-align: center;">The result: negative customer experiences. Customers often feel misunderstood regarding their problem. Lengthy, complex interactions involve fixed dialog sequences and questions which the customer may have already answered. This leads to poor resolution rates, low adoption of self-care tools, and frequent escalations to human-assisted channels. Investments in reworking or extending existing journeys often fail, as they do not address the core issue: a lack of adaptivity and a data-driven approach to customer service.</p><br><p style="text-align: center;">-Rigid interactions frustrate customers, making them feel misunderstood.<br>
