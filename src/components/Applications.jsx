@@ -5,98 +5,34 @@ const servicesData = [
   {
     th: "SELF",
     title: "CARE",
-    description: "ootb fiber customer support content",
-    bigDescHead: `Digitalize your fiber customer support in weeks using plug-and-play customer support content`,
-    bigDesc: `As a fiber operator, you face significant costs and challenges in developing and maintaining content for all customer support channels. Your customers expect intuitive, effortless service experiences, like those offered by ChatGPT. However, the complexity of backend systems, a wide range of devices, and limited automation make it difficult to meet these expectations.
-
--High costs & effort for support content
--High customer expectations for intuitive service
--Complex technology with backend & many devices
-
-As a result, many customers avoid self-service channels and turn to customer support representatives instead. They themselves struggle with high call volumes, limited training and complexity of customer issues. This leads to long wait times, higher interaction costs, and dissatisfied customers, while the potential of self-care remains untapped. Changing the status quo typically requires significant investments, and building customer support from scratch isn’t a viable option. This leaves customer support executives in a dilemma of how to initiate truly significant improvements. 
-
--Customers bypass self-service, overwhelming support teams.
--This leads to long waits, high costs, and unmet self-service potential.
--Significant improvements demand high investment, creating executive uncertainty.
-
-HRAIZN FIBER is a comprehensive library of fiber customer support capabilities – covering all fiber issues that customers may encounter. Instead of creating and managing all customer support content by yourself, it grants you access to preconfigured telco best practices. Using our powerful AI inference engine, every customer support channel can utilize HRAIZN FIBER content to boost KPIs such as Resolution Rates, Average Handling Times, or Recaller Rates. HRAIZN FIBER is ready to deploy, ensuring a go-to-market time of just a few weeks. You deliver intuitive digital experiences to your customers while reducing effort and cost. Transform your customer support in weeks using preconfigured, best-practice telco customer support content. 
-
--HRAIZN FIBER provides ready-to-use fiber support solutions.
--AI-powered best practices boost KPIs and efficiency.
--Fast deployment reduces costs and enhances customer experience.`,
+    description: "Solve up to 80% of issues digitally",
+    bigDescHead: `Solve 50 to 80% of your customer problems digitally through AI-driven self-care`,
+    bigDesc: `<p style="font-weight: 400; text-align: center;">Truly relevant cost savings through self-care are only achieved when solutions are effortless, adaptive and automated. However, customers still experience customer support solutions that require a lot of knowledge and patience on their part. The challenge is to leverage system and conversational data dynamically in real-time to provide customers with simple, relevant and automated assistance.</p><br><p style="font-weight: 400; text-align: center;">If there is a fundamental lack of dynamism, simplification and automation, the solution rates and acceptance of self-care channels will not improve in the long term. In addition to the high costs caused by manual customer contacts, this has a negative impact on customer experience and the image of the telco companies concerned.</p><br><p style="font-weight: 400; text-align: center;">HRAIZN solutions combine real-time OSS/BSS data with a powerful AI inference engine to address these challenges. Instead of hard-coded resolution paths, the inference engine treats every customer issue uniquely and leverages data dynamically to find the shortest path to resolution. Interactions on self-care channels are concise and effortless, while connection to underlying systems allows for powerful automated actions. This proven approach leads to enhanced self-care acceptance and improvement in resolution and adoption rates.</p>`,
   },
   {
     th: "CUSTOMER",
     title: "CARE",
-    description: "ootb HFC customer support content",
-    bigDescHead: `Digitalize your DOCSIS customer support in weeks using plug-and-play customer support content `,
-    bigDesc: `As an HFC operator, you face significant costs and challenges in developing and maintaining content for all customer support channels. Your customers expect intuitive, effortless service experiences, like those offered by ChatGPT. However, the complexity of backend systems, a wide range of devices, and limited automation make it difficult to meet these expectations. 
-
--HFC operators face high costs and challenges in managing support content.
--Customers expect seamless, AI-like service experiences.
--Complex systems, diverse devices, and limited automation hinder meeting these expectations.
-
-As a result, many customers avoid self-service channels and turn to customer support representatives instead. They themselves struggle with high call volumes, limited training and complexity of customer issues. This leads to long wait times, higher interaction costs, and dissatisfied customers, while the potential of self-care remains untapped. Changing the status quo typically requires significant investments, and building customer support from scratch isn’t a viable option. This leaves customer support executives in a dilemma of how to initiate truly significant improvements. 
-
--Customers bypass self-service, overloading support teams.
--Long wait times and high costs stem from complex issues and limited training.
--Major improvements require investment, leaving executives unsure of the next steps.
-
-HRAIZN HFC is a comprehensive library of DOCSIS customer support capabilities – covering all HFC issues that customers may encounter. Instead of creating and managing all customer support content by yourself, it grants you access to preconfigured telco best practices. Using our powerful AI inference engine, every customer support channel can utilize HRAIZN HFC content to boost KPIs such as Resolution Rates, Average Handling Times, or Recaller Rates. HRAIZN HFC is ready to deploy, ensuring a go-to-market time of just a few weeks. You deliver intuitive digital experiences to your customers while reducing effort and cost. Transform your customer support in weeks using preconfigured, best-practice telco customer support content. 
-
--HRAIZN HFC offers a ready-to-use DOCSIS support library for all HFC issues.
--AI-powered best practices enhance KPIs like Resolution Rates and Handling Times.
--Deploy in weeks, cutting costs while improving digital customer experiences.`,
+    description: "Boost customer support KPIs across channels",
+    bigDescHead: `Boost Customer Service KPIs Across All Channels—Effortlessly`,
+    bigDesc: `<p style="font-weight: 400; text-align: center;">Reducing customer service costs is an obvious goal, but unlocking real savings can feel impossible:</p><br><p style="text-align: center;">— How can you<strong> leverage data</strong> to empower self-service channels and automate 80% of resolutions —<br>
+— How can you<strong> use AI</strong> to create seamless, intuitive interactions that handle even complex issues effortlessly? —<br>
+— How can you<strong> implement adaptive guidance</strong> to reduce AHT and eliminate wait times? —<br>
+— How can you<strong> apply Machine Learning</strong> to proactively detect issues before they impact CX? —</p><br><p style="font-weight: 400; text-align: center;">The answer is often&nbsp;<strong>effort</strong>. Customer service teams must prioritize due to limited resources—improving quality in one area while sacrificing another. Existing solutions struggle to fully utilize AI and GenAI, and starting from scratch isn’t an option. The result? A constant cycle of improvement that never addresses the root problem:&nbsp;<strong>high effort, limited next-gen capabilities, and shifting priorities.</strong></p><br><p style="font-weight: 400; text-align: center;">HRAIZN tackles these challenges head-on, enhancing customer service KPIs&nbsp;<strong>while reducing effort</strong>. Our powerful AI inference engine, combined with preconfigured customer support content, instantly elevates service quality across all channels.<br>
+At the core of HRAIZN is a true&nbsp;<strong>omnichannel architecture</strong>, enabling seamless, data-driven support interactions that adapt in real time. Built specifically for&nbsp;<strong>telco customer support</strong>, HRAIZN isn’t just a platform—it’s a&nbsp;<strong>plug-and-play solution</strong>&nbsp;with ready-to-use customer support flows for the most common technologies.</p><br>`,
   },
   {
     th: "FIELD",
     title: "FORCE",
-    description: "Proactively address issues before they impact CX",
-    bigDescHead: `Proactively resolve customer issues and ensure growing revenue from 3rd and 1st party services`,
-    bigDesc: `Driven by an increasing number of connected devices, Smart Home systems, OTT services, and 3rd party offerings, the growing scope and complexity of telecom infrastructure puts significant pressure on providers. Effective monitoring and proactively resolving problems is becoming more difficult, while telecom companies remain responsible for ensuring seamless functionality across all services. Managing these challenges without effective tools makes it increasingly difficult to prevent and resolve issues proactively. Where systems already provide proactive functionality like alarming, the information is not fully leveraged for proactive resolutions or tied back to customer impact.
-
--Growing device numbers and service complexity strain telecom providers.
--Monitoring and proactive issue resolution are becoming more challenging.
--Existing systems generate alerts but fail to drive proactive solutions.
-
-Frequent outages and service failures, regardless of their origin, severely damage customer satisfaction and lead to churn. For telecom companies, this immensely threatens the viability of OTT or bundled services, which are critical for revenue. Without proactive solutions, reactive issue resolution becomes costly, labor-intensive, and inefficient, delaying root cause identification and preventing continuous improvement.
-
--Frequent outages hurt customer satisfaction and increase churn.
--Service failures threaten the viability of OTT and bundled offerings.
--Reactive troubleshooting is costly, slow, and hinders continuous improvement.
-
-HRAIZN PULSE analyzes real-time and historical data and leverages AI to proactively detect root causes. Additionally, by automating resolutions, HRAIZN PULSE empowers you to resolve problems before they impact customers, ensuring reliable service delivery. HRAIZN PULSE minimizes customer disruptions, strengthens service uptime, and enables telecom companies to maximize revenue while maintaining seamless operations across both 1st and 3rd party services. Turn reactive customer interactions into proactive solutions, gaining deeper insights into customer impact and transforming issues into opportunities for improvement.
-
--HRAIZN PULSE uses AI to detect root causes and automate resolutions proactively.
--It prevents customer disruptions, ensuring reliable service and maximizing revenue.
--Transform reactive support into proactive solutions, enhancing insights and operations.
-
-`,
+    description: "Reduce field service cost",
+    bigDescHead: `Efficient field service without unnecessary dispatches`,
+    bigDesc: `<p style="font-weight: 400; text-align: center;">Field service remains a major cost driver in telecom customer support. The lack of data-driven root cause detection and intelligent guidance leads to excessive dispatches. Field Service is often the default when no immediate solution is available—an expensive approach. However, If a technician visit is unavoidable, they must be equipped with the right tools and guidance to ensure efficiency.</p><br><p style="font-weight: 400; text-align: center;">Unnecessary dispatches are the result of lacking a&nbsp;<strong>data-driven approach</strong>. The basis to avoid costly on-site visits is a root cause diagnosis that leverages OSS/BSS data and topology analysis. Combined with powerful remote resolutions, most issues can be solved in self-care channels or 1<sup>st</sup> level. Field service technicians rely heavily on their expertise, making well-trained workers a valuable but limited resource. To maximize efficiency, they need remote access to essential systems and tools via a unified interface. Additionally, intuitive, dynamic guidance can help new technicians quickly adapt to the complexity of their tasks. Failing to optimize both dispatch prevention and field force efficiency leads to soaring costs.</p><br><p style="font-weight: 400; text-align: center;">By leveraging&nbsp;<strong>an</strong> AI-driven real-time fault clearance,&nbsp;<strong>Swisscom AG</strong>&nbsp;reduced field service dispatch costs by&nbsp;<strong>€4.5 million</strong>&nbsp;over three years. A data-focused approach enabled root cause resolution, minimizing unnecessary dispatches and improving customer experience through faster fixes. However, when dispatch is unavoidable,&nbsp;<strong>HRAIZN </strong>still provides technicians with&nbsp;<strong>tailored action recommendations and remote system access</strong>, enhancing efficiency and customer satisfaction while reducing costs.</p>`,
   },
   {
     th: "PROACTIVE",
     title: "CARE",
-    description: "Open up new revenue streams as network owner",
-    bigDescHead: `Resell customer support solutions to ISPs to save effort, reduce costs and unlock new revenue streams `,
-    bigDesc: `The shared use of physical network infrastructure by multiple providers makes managing, monitoring, and maintaining the network highly complex. When faults or outages occur, identifying the cause becomes challenging because issues can originate at different levels—end customer, ISP, or network owner. ISPs often lack expertise in direct customer support, creating additional work for network owners. Manual error identification and resolution leads to delays, increased workload, and growing customer dissatisfaction.
-
--Shared network infrastructure complicates management, monitoring, and maintenance.
--Fault identification is challenging, as issues can stem from customers, ISPs, or network owners.
--Manual troubleshooting causes delays, higher workloads, and customer dissatisfaction.
-
-This situation results in significant challenges for all parties. Network owners face higher costs and increased workloads, even when they are not responsible for the problem. ISPs suffer financial losses due to unresolved customer issues caused by a lack of problem-solving capabilities. End customers experience dissatisfaction because they lack self-service solutions to resolve issues quickly. The absence of automation further compounds the problem, as identifying root causes and responsibilities takes significant time, delaying resolutions and straining resources. 
-
--Network owners bear high costs and workloads.
--ISPs lose revenue from unresolved issues.
--Customers lack self-service, and delays worsen without automation.
-
-HRAIZN OAN localizes root causes and automates troubleshooting wherever possible. This reduces workload, shortens resolution times, and improves overall efficiency. HRAIZN OAN enables network owners to resell intelligent customer support solutions to ISPs. Therefore, it reduces costs and effort while opening new revenue streams. Utilizing HRAIZN OAN, ISPs can offer advanced self-care applications that help end customers resolve issues more efficiently, leading to enhanced satisfaction and fewer escalated problems for network owners. Network owners benefit from additional revenue, meeting SLAs more effectively and differentiating their offerings.
-
--HRAIZN OAN automates troubleshooting, reducing workload and resolution times.
--Network owners can resell support solutions to ISPs, cutting costs and creating new revenue streams.
--ISPs offer self-care tools, improving customer satisfaction and minimizing escalations.
-
-`,
+    description: "Resolve issues before they impact CX",
+    bigDescHead: `Reduce Costs by Resolving Customer Issues Before They Impact CX`,
+    bigDesc: `<p style="text-align: center;"><span lang="EN-US">Size and versatility of telco infrastructure pose a challenge to save cost with proactive issues resolution. Many systems either lack proactive capabilities or fail to utilize them effectively due to their sheer number and unclear dependencies. To address this, data streams must be continuously monitored and analyzed for anomalies, with automated root cause detection and resolution wherever possible.</span></p><br><p style="text-align: center;"><span lang="EN-US">Without proactive measures, manual fixes and customer service cases drive up costs. The effort required to implement proactivity forces NOC, IT teams, and product managers to focus only on the most critical 5% of cases, leaving significant potential untapped. Smart, proactive solutions can unlock this potential and drive substantial cost savings.</span></p><br><p style="text-align: center;"><span lang="EN-US">HRAIZN PULSE leverages statistical models and machine learning to detect issues proactively. It enables you to enhance existing alerting systems or introduce new proactive capabilities. Early detection and automated root cause analysis can be applied to various use cases—monitoring critical network components, optimizing OTT service performance, managing smart home devices. As safety mechanism, you can also detect large scale customer issues and their root cause after just a few customer contacts. Apply automated fixes, reduce manual effort and prevent negative customer experiences.</span></p>`,
   },
 ];
 
