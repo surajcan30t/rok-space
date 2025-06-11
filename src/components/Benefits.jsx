@@ -9,7 +9,7 @@ const Benefits = () => {
       <div className="flex flex-col items-center justify-center mt-52 md:mt-0">
         <h2 className="text-6xl font-family-mono mb-8 text-center">BENEFIT</h2>
         <p className="text-base text-center mb-12 w-2/3">
-          Every offering in the HRAIZN Telecom Suite is designed to help
+          Every offering in the VERGEFORM Telecom Suite is designed to help
           operators and service providers tackle 2 major challenges:
         </p>
       </div>
@@ -24,7 +24,7 @@ const Benefits = () => {
             choice while expecting 24/7 availability and perfect customer
             experience.
             <br />
-            HRAIZN helps deliver omnichannel customer experiences at an
+            VERGEFORM helps deliver omnichannel customer experiences at an
             outstanding level while improving customer satisfaction and cost
             parameters.
           </p>
@@ -39,7 +39,7 @@ const Benefits = () => {
             assurance and cost control remain essential to the telecoms business
             model.
             <br />
-            HRAIZN helps reduce operational expenses by automating customer
+            VERGEFORM helps reduce operational expenses by automating customer
             support requests from A to Z – alongside your current tools &
             systems.
           </p>

@@ -37,7 +37,7 @@ const servicesData = [
                 -Customers expect effortless, adaptive support experiences.<br>
                 -Rigid, outdated processes lead to irrelevant questions and frustration.</p><br><p style="font-weight: 400; text-align: center;">The result: negative customer experiences. Customers often feel misunderstood regarding their problem. Lengthy, complex interactions involve fixed dialog sequences and questions which the customer may have already answered. This leads to poor resolution rates, low adoption of self-care tools, and frequent escalations to human-assisted channels. Investments in reworking or extending existing journeys often fail, as they do not address the core issue: a lack of adaptivity and a data-driven approach to customer service.</p><br><p style="text-align: center;">-Rigid interactions frustrate customers, making them feel misunderstood.<br>
                 -Fixed dialogues and repeated questions lower resolution rates and self-care adoption.<br>
-                -Without adaptivity and a data-driven approach, improvements fail to solve the core issue.</p><br><p style="font-weight: 400; text-align: center;">HRAIZN NBA AI transforms customer service journeys into adaptive, dynamic experiences – on all your customer support channels. It leverages data from OSS/BSS systems, customer feedback, and new insights to continuously enhance and personalize customer journeys. This approach allows for seamless context switching at any point in the interaction. Additional information is used to personalize responses, while irrelevant questions are eliminated. For knowledge engineers, this reduces the complexity of modeling extensive processes. Customer service teams are enabled to create better customer experiences that drive self-care adoption and improve the performance of human-assisted channels. Ultimately, this approach ensures telcos achieve the ROI they expect from self-care solutions and agent guidance.</p><br><p style="text-align: center;">-HRAIZN NBA AI creates adaptive, data-driven customer service experiences across all channels.<br>
+                -Without adaptivity and a data-driven approach, improvements fail to solve the core issue.</p><br><p style="font-weight: 400; text-align: center;">VERGEFORM NBA AI transforms customer service journeys into adaptive, dynamic experiences – on all your customer support channels. It leverages data from OSS/BSS systems, customer feedback, and new insights to continuously enhance and personalize customer journeys. This approach allows for seamless context switching at any point in the interaction. Additional information is used to personalize responses, while irrelevant questions are eliminated. For knowledge engineers, this reduces the complexity of modeling extensive processes. Customer service teams are enabled to create better customer experiences that drive self-care adoption and improve the performance of human-assisted channels. Ultimately, this approach ensures telcos achieve the ROI they expect from self-care solutions and agent guidance.</p><br><p style="text-align: center;">-VERGEFORM NBA AI creates adaptive, data-driven customer service experiences across all channels.<br>
                 -It personalizes interactions by leveraging OSS/BSS data, feedback, and insights.<br>
                 -This reduces process complexity, boosts self-care adoption, and improves ROI for telcos.</p>`,
   },
@@ -73,11 +73,11 @@ const GenAi = () => {
               AI
             </h2>
             <p className="text-base text-left mb-12 md:w-2/3">
-              Elevate your operations with the HRAIZN Telecoms Suite, where
+              Elevate your operations with the VERGEFORM Telecoms Suite, where
               cutting-edge AI technology not only reduces costs but also
               dramatically enhances the customer experience. <br />
               <br /> Explore industry leading AI-powered tools designed to bring
-              about the change you’ve been seeking. With HRAIZN, experience a
+              about the change you’ve been seeking. With VERGEFORM, experience a
               paradigm shift in how you connect with customers, offering them a
               seamless omnichannel journey that’s both efficient and satisfying.
               Step into the future of telecom—where innovation drives superior

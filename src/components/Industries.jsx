@@ -12,7 +12,7 @@ const Industries = () => {
             INDUSTRIES
           </div>
           <p>
-            HRAIZN solutions optimize efficiency and drive cost reductions in
+            VERGEFORM solutions optimize efficiency and drive cost reductions in
             customer operations of various telco companies. Get in touch for
             more information regarding your specific business challenge.
           </p>
